@@ -2,7 +2,7 @@
   "name": "expense-tacker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://tahminaislamshammee.github.io/React-Expense-Tracker",
+  "homepage": "https://tahminaislamshammee.github.io/react-expense-tracker",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
