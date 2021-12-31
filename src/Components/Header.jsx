@@ -1,7 +1,7 @@
 const Header = () => {
     return ( 
         <h2>
-            expense tracker
+            expense tracker !
         </h2>
      );
 }
